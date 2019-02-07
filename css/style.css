@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: "latoWeb";
+  line-height: 5
+}
+ul {
+  line-height: 40px;
+}
+#jumbo{
+  float:right;
+  height:20em;
+}
+body {
+    background-color: rgba(151, 99, 107, 0.76);
+}
